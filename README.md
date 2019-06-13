@@ -1,18 +1,5 @@
-# PDF FLIPBOOK
-Pdf flipbook converter with turnjs and pdfjs libraries.
+# PDF Flipbook Template
 
-## Demo
-![alt tag](http://eray.info/demo/pdf-flipbook/ompressed.tracemonkey-pldi-09.pdf20161028171848.gif)
+This is a template for quickly deploying a PDF flipbook.
 
-[Demo](http://eray.info/demo/pdf-flipbook)
-
-## Usage
-
-#### Define PDF Src
-
-to define the src, open pdfjs/viewer.js and change to line 30.
-```javascript
-var DEFAULT_URL =  "compressed.tracemonkey-pldi-09.pdf";
-```
-
- 
+Switch to the `gh-pages` branch to get started.
